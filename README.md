@@ -1,6 +1,6 @@
 ## 神经网络与深度学习
 
-作者：邱锡鹏 微博：@邱锡鹏
+作者：[ruishao](azerothruis.github.io)
 
 ### 关于本书
 
